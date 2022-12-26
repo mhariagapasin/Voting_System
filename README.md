@@ -1,4 +1,4 @@
-# voting system
+# voting system app
 
 A new Flutter project.
 
